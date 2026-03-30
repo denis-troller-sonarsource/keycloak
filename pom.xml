@@ -246,6 +246,8 @@
         <!-- Set to true on release to update proto.lock files -->
         <commitProtoLockChanges>false</commitProtoLockChanges>
         <skipProtoLock>false</skipProtoLock>
+
+        <sonar.organization>denis-troller-sonar</sonar.organization>
     </properties>
 
     <url>http://keycloak.org</url>
